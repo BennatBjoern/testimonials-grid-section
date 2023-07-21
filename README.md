@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor]()
-- Live Site URL: [Github pages]()
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-flexbox-and-grid-tjmkCQRT6A)
+- Live Site URL: [Github pages](https://bennatbjoern.github.io/testimonials-grid-section/)
 
 ## My process
 
